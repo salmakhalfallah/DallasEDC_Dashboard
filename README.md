@@ -1,5 +1,3 @@
-![Dallas EDC]{https://media.licdn.com/dms/image/v2/D563DAQEWoH7TL-FXhQ/image-scale_191_1128/image-scale_191_1128/0/1726521289543/dallasedc_cover?e=1774918800&v=beta&t=DLUcXdPb2pVu3z0WB25I2za2Jd6XtYVjYVMaXfKIEbc}
-
 # UTDiscovery x Dallas EDC Data Dashboard
 UT Dallas Spring 2026 Capstone project with Dallas EDC, a non-profit in Dallas, TX, to build a data dashboard highlighting the strong education-to-workforce pipeline in the city
 
